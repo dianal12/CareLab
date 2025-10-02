@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435034690665",
+    "project_id": "carelab-5c955",
+    "storage_bucket": "carelab-5c955.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435034690665:android:60c5676312d38089917ef8",
+        "android_client_info": {
+          "package_name": "com.example.my_new_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc7u0XiGSPGSeTdEWiffHneXNdhdtPZCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
